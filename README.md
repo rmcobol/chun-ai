@@ -10,10 +10,10 @@
 
 
 <hr>
-<h1>구글시트에서 제미나이 사용할려면</h1>
+<h1>구글 독스/슬라이드/시트에서 제미나이 무료로 사용할려면</h1>
 <h2><a href="https://workspace.google.com/labs-sign-up">구글 랩스에 가입</a></h2>
 
 
 <hr>
-<h1>제미나 노트북 LM</h1>
+<h1>제미나이 노트북 LM</h1>
 <h2><a href="https://notebooklm.google.com/">노트북LM</a></h2>
