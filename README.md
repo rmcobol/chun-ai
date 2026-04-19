@@ -17,3 +17,9 @@
 <hr>
 <h1>제미나이 노트북 LM</h1>
 <h2><a href="https://notebooklm.google.com/">노트북LM</a></h2>
+
+<hr>
+<h1>미리캔버스</h1>
+<h2><a href="https://youtu.be/YwBlr2lme-M">미리밴버스</a></h2>
+
+
