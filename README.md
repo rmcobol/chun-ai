@@ -20,7 +20,7 @@
 
 <hr>
 <h1>미리캔버스</h1>
-<h2><a href="https://www.miricanvas.com/ko">미리밴버스</a></h2>
+<h2><a href="https://www.miricanvas.com/ko">미리캔버스</a></h2>
 
 <hr>
 <h1>구글설문지 예시</h1>
