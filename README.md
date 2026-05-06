@@ -24,5 +24,5 @@
 
 <hr>
 <h1>구글설문지 예시</h1>
-<h2><a href="https://docs.google.com/forms/d/e/1FAIpQLSeNp8_NwLAA4_ABfYUbPin9wZpnmbOtHjyX_EWwznTBxc08Ug/viewform">구글설문지 예시시</a></h2>
+<h2><a href="https://docs.google.com/forms/d/e/1FAIpQLSeNp8_NwLAA4_ABfYUbPin9wZpnmbOtHjyX_EWwznTBxc08Ug/viewform">구글설문지 예시</a></h2>
 
